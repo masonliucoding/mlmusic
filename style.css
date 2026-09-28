@@ -12,3 +12,7 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: beige;
 }
+
+    .underline {
+        text-decoration: underline;
+    }
