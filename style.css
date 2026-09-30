@@ -16,3 +16,14 @@ body {
     .underline {
         text-decoration: underline;
     }
+
+    main, form {
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+.formkit-powered-by-convertkit-container {
+    display: none !important;
+}
