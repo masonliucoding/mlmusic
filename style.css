@@ -31,3 +31,20 @@ body {
 .formkit-powered-by-convertkit-container {
     display: none !important;
 }
+
+footer {
+    max-width: 800px;
+    margin: 40px auto 20px auto; /* Centers the box and adds space above/below */
+    padding: 20px;
+    background-color: #ffffff;   /* Box background color */
+    border: 1px solid #e3e3e3;    /* Subtle outer border */
+    border-radius: 8px;           /* Rounded corners */
+    text-align: center;           /* Center-aligns footer text */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Optional soft drop shadow */
+}
+
+footer p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #555555;
+}
