@@ -9,7 +9,19 @@
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://masonliumusic.top/contact.html</loc>
+    <loc>https://masonliumusic.top/music.html</loc>
     <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://masonliumusic.top/contact.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://masonliumusic.top/subscribe.html</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://masonliumusic.top/feedback.html</loc>
+    <priority>0.50</priority>
   </url>
 </urlset>
