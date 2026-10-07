@@ -6,12 +6,12 @@ header {
 
 nav {
     text-align: center;
-}
+    }
 
 body {
     font-family: 'Poppins', sans-serif;
     background-color: beige;
-}
+    }
 
     .underline {
         text-decoration: underline;
@@ -25,12 +25,19 @@ body {
         text-align: center;
     }
 
+    .center-img {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    max-width: 100%;
+    }
+
     main, footer, form {
     max-width: 800px;
     margin: 0 auto;
     line-height: 1.6;
     padding: 20px;
-}
+    }
 
 .formkit-powered-by-convertkit-container {
     display: none !important;
