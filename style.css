@@ -13,26 +13,26 @@ body {
     background-color: beige;
     }
 
-    .underline {
+.underline {
         text-decoration: underline;
     }
 
-    .bold {
+.bold {
         font-weight: bold;
     }
 
-    .center {
+.center {
         text-align: center;
     }
 
-    .center-img {
+.center-img {
     display: block;
     margin: 20px auto;
     width: 300px;
     max-width: 100%;
     }
 
-    main, footer, form {
+main, footer, form {
     max-width: 800px;
     margin: 0 auto;
     line-height: 1.6;
