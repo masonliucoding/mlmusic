@@ -1,4 +1,2 @@
-MASON LIU MUSIC
-  official website
-
-- Really, there's nothing to do here, I'm just using Github to host my website for free.
+**MASON LIU MUSIC**
+Official site of Australian singer-songwriter, Mason Liu. This repo is for hosting only so there's nothing really to do here :)
