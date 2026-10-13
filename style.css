@@ -1,30 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
+/*Header style*/
 header {
     text-align: center;
 }
 
+/*Nav style*/
 nav {
     text-align: center;
     }
 
+/*Background colour and font style*/
 body {
     font-family: 'Poppins', sans-serif;
     background-color: beige;
     }
 
+/*Underline text class*/
 .underline {
         text-decoration: underline;
     }
 
+/*Bold text class*/
 .bold {
         font-weight: bold;
     }
 
+/*Text centre class*/
 .center {
         text-align: center;
     }
 
+/*Image centre class*/
 .center-img {
     display: block;
     margin: 20px auto;
@@ -32,12 +39,13 @@ body {
     max-width: 100%;
     }
 
+/*Style for main content and footer to be centred with max width */
 main, footer, form {
     max-width: 800px;
     margin: 0 auto;
     line-height: 1.6;
     padding: 20px;
-    }
+}
 
 .formkit-powered-by-convertkit-container {
     display: none !important;
@@ -60,6 +68,13 @@ footer p {
     color: #555555;
 }
 
+/*Grey text class*/
 .grey-text {
     color: #b5b1b1;
+}
+
+/*AFTER A LINK UNDER NAV IS CLICKED ON, (VISITED), THE LINK COLOUR STAYS THE SAME*/
+nav a, 
+nav a:visited {
+  color: gray;
 }
