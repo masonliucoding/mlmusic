@@ -1,3 +1,5 @@
+/*THIS WHOLE FILE IS IN A RANDOM ORDER, I ADD AS I GO*/
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 /*Header style*/
@@ -88,4 +90,14 @@ body > nav a:visited {
 footer nav a, 
 footer nav a:visited {
     color: #b5b1b1;
+}
+
+/*Make text red*/
+.red-text {
+    color: red;
+}
+
+/*Make text blue*/
+.blue-text {
+    color: #A3D2D9;
 }
