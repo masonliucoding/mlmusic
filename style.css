@@ -68,13 +68,24 @@ footer p {
     color: #555555;
 }
 
+/*Green text class*/
+.green-text {
+    color: #44c348;
+}
+
 /*Grey text class*/
 .grey-text {
     color: #b5b1b1;
 }
 
 /*AFTER A LINK UNDER NAV IS CLICKED ON, (VISITED), THE LINK COLOUR STAYS THE SAME*/
-nav a, 
-nav a:visited {
-  color: gray;
+body > nav a, 
+body > nav a:visited {
+    color: #5faa62;
+}
+
+/*AFTER A LINK UNDER NAV IS CLICKED ON, (VISITED), THE LINK COLOUR STAYS THE SAME*/
+footer nav a, 
+footer nav a:visited {
+    color: #b5b1b1;
 }
